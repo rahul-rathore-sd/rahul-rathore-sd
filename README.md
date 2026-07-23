@@ -13,14 +13,14 @@ I'm a Full-Stack Web Developer based in the Delhi-NCR region, passionate about b
 
 ### 📊 GitHub Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-rathore-sd&show_icons=true&theme=radical&hide_border=true" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-rathore-sd&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-rathore-sd&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rahul's GitHub stats" />
 </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-rathore-sd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 ---
 
 ### 📬 Connect With Me
-* **Portfolio/Website:** [codedbear.in](https://codedbear.in)
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **Portfolio/Website:** [rathorerahul.in](https://rathorerahul.in)
+* **LinkedIn:** [https://www.linkedin.com/in/rahul-rathore001/]
